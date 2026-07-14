@@ -122,6 +122,9 @@ Ham
 
 ---
 
+## Live Demo
+https://spam-detector-2dn7rxkvjf6oe4bn7rcn2x.streamlit.app/
+
 ## 👩‍💻 Author
 
 **Vince**
